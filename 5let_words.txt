@@ -257,7 +257,6 @@ aspen
 aspic
 assam
 assay
-asses
 asset
 aster
 astir
@@ -481,7 +480,6 @@ birds
 biros
 birth
 bison
-bitch
 biter
 bites
 bitty
@@ -498,7 +496,6 @@ blanc
 bland
 blank
 blare
-blas�
 blast
 blaze
 bleak
@@ -1105,7 +1102,6 @@ crams
 crane
 crank
 crape
-craps
 crash
 crass
 crate
@@ -1958,7 +1954,6 @@ fruit
 frump
 fryer
 fuchs
-fucks
 fudge
 fuels
 fugal
@@ -4496,7 +4491,6 @@ shirk
 shirr
 shirt
 shish
-shits
 shiva
 shoal
 shoat
