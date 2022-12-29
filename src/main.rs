@@ -111,8 +111,5 @@ fn main() {
         }
     }
     println!("You lost, the word was {}", game.secret_word);
-
-
-
-
+    
 }
